@@ -1,2 +1,2 @@
-# BA775
+MSBA Course: Business Analytics Toolbox
 SQL Project
